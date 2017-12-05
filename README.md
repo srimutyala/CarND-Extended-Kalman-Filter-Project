@@ -19,6 +19,8 @@ Accuracy
 
 The algorithm is run against dataset 1 and the px, py, vx, vy coordinates have an RMSE < [.11, .11, .52, .52]. The same algorithm when run against dataset2 is close to the RMSE thresholds but slightly over.
 
+[//]: # (Image References)
+
 [image1]: ./DS1.jpg "DS1"
 [image2]: ./DS2.jpg "DS2"
 

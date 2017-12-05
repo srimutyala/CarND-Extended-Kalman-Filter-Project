@@ -5,6 +5,8 @@
 class KalmanFilter {
 public:
 
+	void UpdateWithY(const Eigen::VectorXd &y);
+
   // state vector
   Eigen::VectorXd x_;
 

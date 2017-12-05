@@ -24,8 +24,7 @@ The algorithm is run against dataset 1 and the px, py, vx, vy coordinates have a
 [image1]: ./DS1.jpg "DS1"
 [image2]: ./DS2.jpg "DS2"
 
-![alt text][image1]
-![alt text][image2]
+![alt text][image1]![alt text][image2]
 
 
 Algorithm
